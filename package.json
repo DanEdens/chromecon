@@ -1,0 +1,17 @@
+{
+  "name": "chromcon",
+  "version": "0.0.1",
+  "description": "CLI for Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Edens <Dan.Edens@Geo-instruments.com> (https://github.com/DanEdens)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "3.7.2",
+    "puppeteer": "2.1.1",
+    "readline": "1.3.0"
+  },
+  "devDependencies": {}
+}
